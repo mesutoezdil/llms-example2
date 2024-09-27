@@ -88,8 +88,3 @@ This code uses the `math/rand` package to generate random numbers and prints out
 
 ## Conclusion
 The main challenges were understanding the `Role` type expectations of the `Prediction Guard` client library and ensuring the code was compatible with the `v0.21.0` version. By properly using `client.Roles` and downgrading the client library, the API was successfully accessed, and the desired output was generated.
-
----
-
-Feel free to modify the `README.md` as needed and add any further details specific to your setup or experience.
-```
